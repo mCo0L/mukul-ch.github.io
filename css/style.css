@@ -1,0 +1,15 @@
+.main_heading{
+	background-color : #eee;
+	text-align : center;
+	
+}
+.main_heading_left{
+	margin-top : 2px;
+	position : absolute;
+}
+.main_heading_right{
+	margin-top : 10px;
+	text-align : right;
+	position : relative;
+	
+}
